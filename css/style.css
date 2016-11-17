@@ -1,0 +1,13 @@
+body{
+  background-color: #BCAAA4;
+}
+h2.intro{
+  font-style: italic;
+  color: #616161;
+}
+img.intro{
+  width: 480px;
+}
+p.intro{
+  font-family: sans-serif;
+}
